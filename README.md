@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ricardo Silva  
 
 🎓 **MSc in Informatics Engineering** — University of Coimbra  
-📍 Based in Coimbra, Portugal  
+📍 Based in Portugal  
 💡 Passionate about **data-driven problem solving**, **business process management**, and **business intelligence**
 
 ---
