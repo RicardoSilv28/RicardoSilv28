@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ricardo Silva  
+# 👋 Hi there, I'm Ricardo
 
 🎓 **MSc in Informatics Engineering** — University of Coimbra  
 📍 Based in Portugal  
