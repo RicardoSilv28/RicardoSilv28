@@ -2,7 +2,7 @@
 
 🎓 **MSc in Informatics Engineering** — University of Coimbra  
 📍 Based in Portugal  
-💡 Passionate about **data-driven problem solving**, **business process management**, and **business intelligence**
+💡 Passionate about **data-driven problem solving**, **business process management**, and **software engineering**
 
 ---
 
