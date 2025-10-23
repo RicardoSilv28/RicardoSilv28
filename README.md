@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 I'm a 23-year-old Informatics Engineer with a strong analytical mindset and a passion for turning data and technology into meaningful solutions.  
 
-I recently completed my Master’s degree, specializing in **Information Systems**, where I worked on projects involving:  
+I recently completed my Master’s degree, where I worked on projects involving:  
 - 🧠 **Business Intelligence** solutions (ETL with Pentaho, PostgreSQL, Tableau dashboards)  
 - 🏢 **Enterprise Architecture** modeling (ArchiMate, COBIT audit analysis)  
 - ☁️ **Cloud-based applications** (React + Django + AWS Lambda, Step Functions, DynamoDB)  
@@ -27,8 +27,4 @@ My master’s dissertation, *"SmartPort-BPMN: Modelling Smart and Green Logistic
 
 ## 📫 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardosilvaa28)  
-📧 ricardosilv528@gmail.com  
-
----
-
-⭐ *“Technology should empower people — not replace them.”*
+📧 ricardosilv528@gmail.com
